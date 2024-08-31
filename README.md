@@ -41,9 +41,9 @@ To get started with this project, follow these steps:
 
 ## Learning Resources
 
-- [NumPy Documentation](https://numpy.org/doc/stable/)
-- [Python Documentation](https://docs.python.org/3/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [![NumPy Documentation](https://numpy.org/images/logos/numpylogo.svg)](https://numpy.org/doc/stable/) NumPy Documentation
+- [![Python Documentation](https://www.python.org/community/logos/python-logo-master-v3-TM.png)](https://docs.python.org/3/) Python Documentation
+- [![Visual Studio Code](https://code.visualstudio.com/assets/favicon.ico)](https://code.visualstudio.com/) Visual Studio Code
 
 ## Contributions
 
@@ -51,6 +51,13 @@ Feel free to contribute to this project! If you have any tips, resources, or imp
 
 ## Follow Along
 
-Join me on this learning journey! I’ll be sharing my progress, insights, and code snippets on [Instagram](your_instagram_link) and [YouTube](your_youtube_link).
+Join me on this learning journey! I’ll be sharing my progress, insights, and code snippets on:
+
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/praveengk07) LinkedIn
+- [![Medium](https://upload.wikimedia.org/wikipedia/commons/8/85/Medium_logo.svg)](https://medium.com/@praveengk93) Medium
+- [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/praveengk1207) GitHub
+- [![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@datavibes_gk) YouTube
+- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://x.com/datavibes_gk?t=NHKsyXgorvhX0VQpFRO-qQ&s=08) X (Twitter)
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/datavibes.gk/) Instagram
 
 Happy Learning!
